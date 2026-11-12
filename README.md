@@ -111,8 +111,8 @@ The main objective of this project is to develop an easy-to-use online jewellery
 - Enhanced security and performance
 
 ## Author
-More Komal
+Late Samiksha
 
-GitHub:https://github.com/komal-more-2026
+GitHub:https://github.com/ShilaTipare/Shila-Portfolio.git
 
-Repository:https://github.com/komal-more-2026/JewelleryShopManagementSystem
+Repository:https://github.com/ShilaTipare/Shila-Portfolio/JewelleryShopManagementSystem
